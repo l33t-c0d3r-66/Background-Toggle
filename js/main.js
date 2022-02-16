@@ -7,11 +7,13 @@ toggleDark.addEventListener("click", function(){
         body.style.background = 'white';
         body.style.color = 'black';
         toggleDark.style.color = 'orangered';
+        toggleDark.title = "Switch to Dark Mode";
         body.style.transition = '2s';
     } else {
         body.style.background = 'black';
         body.style.color = 'white';
         toggleDark.style.color = 'orange';
+        toggleDark.title = "Switch to Light Mode";
         body.style.transition = '2s';
     }
 });
