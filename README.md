@@ -1,5 +1,5 @@
 # Background Toggle
-<li> A simple Project written in HTML, CSS and JavaScript.
+<li> A JavaScript Project which toggles the background written in HTML, CSS and JavaScript.
 <li> This Project uses different concepts of HTML, CSS and JavaScript.
 <li> This Project also uses some DOM concepts to Manipulate HTML Document.
 
